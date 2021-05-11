@@ -1,5 +1,5 @@
 # python-
-提交任务交由各客户端处理
+python 分布式任务处理系统，提交任务交由各客户端处理
 
 compute.py中定义了Work类，可以自定义getwork与dowork方法，这里getwork方法返回的是一堆数据，dowork方法去处理数据
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210511205106124.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NDEyMTk1,size_16,color_FFFFFF,t_70#pic_center)
